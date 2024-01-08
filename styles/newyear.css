@@ -128,5 +128,95 @@ justify-content: center;
 align-items: center;
 flex-shrink: 0; */
 }
+.hotel{
+    margin: 120px 140px;
+    
+  color:rgb(218, 87, 106)   
+}
+.pdt{
+    color: #F00;
+}
+.description{
+    color: #070211;
+
+font-size: 32px;
+text-align: center;
+font-weight: 600;
+line-height: 56px;
+text-transform: capitalize;
+}
+.btn{
+    /* color: #FFF; */
+text-align: center;
+
+font-size: 20px;
+
+font-weight: 700;
+
+text-transform: uppercase;
+display: inline-flex;
+margin:20px 577px 110px 650px;
+
+align-items: center;
+gap: 10px;
+}
+.join-now{
+    padding: 10px 25px;
+}
+.new-offer{
+    color: #F00;
+/* text-align: center; */
+
+font-size: 24px;
+
+font-weight: 500;
+
+}
+.comming{
+    color: #070211;
+
+font-size: 48px;
+
+font-weight: 900;
+
+text-transform: capitalize;
+}
+.offer{
+    margin: 120px 140px;
+}
+.offer-description{
+    color: rgba(7, 2, 17, 0.60);
+    width: 393px;
+font-size: 20px;
+padding: 0px 70px 90px 0px;
+font-weight: 400;
+line-height: 32px; /* 160% */
+}
+.ellips{
+    padding: 0px 180px 200px 0px;
+    width: 463px;
+height: 463px;
+flex-shrink: 0;
+}
+.time-year{
+    color: #F00;
+
+font-size: 48px;
+
+font-weight: 700;
+
+}
+.offer-second-description{
+    color: rgba(7, 2, 17, 0.60);
+    width: 276px;
+font-size: 20px;
+
+font-weight: 400;
+line-height: 32px; /* 160% */
+}
+.offer{
+    display: flex;
+}
+
    
     
