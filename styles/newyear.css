@@ -417,6 +417,108 @@ color: #FFF;
 
 
 
+.footer{
+   padding: 120px 140px;
+    background: #070211;
+}
+.garden{
+    color: #FFF;
+width: 350px;
+font-size: 24px;
+
+font-weight: 500;
+line-height: 40px; /* 166.667% */
+}
+.number{
+    color: #FFF;
+
+font-size: 24px;
+
+font-weight: 500;
+line-height: 40px; /* 166.667% */
+}
+.www{
+    color: #FFF;
+
+font-size: 24px;
+
+font-weight: 500;
+line-height: 40px; /* 166.667% */
+}
+.call{
+    width: 24px;
+height: 24px;
+flex-shrink: 0;
+position: absolute;
+top: 7325px;
+right: 400px;
+left: 1360px;
+
+
+}
+.website{
+    width: 24px;
+height: 24px;
+flex-shrink: 0;
+position: absolute;
+top: 7390px;
+right: 400px;
+left: 1360px;
+}
+.n{
+    display: flex;
+}
+.nw{
+    gap: 5px;
+}
+.gnw{
+    display: flex;
+    justify-content: space-between;
+}
+.media{
+    width: 24px;
+height: 24px;
+flex-shrink: 0;
+display: flex;
+align-items: center;
+position:absolute;
+top: 7500px;
+right: 200px;
+left: 700px;
+gap: 10px;
+}
+.reserved{
+    color: #FFF;
+    /* position: absolute;
+    top: 6000px; */
+font-size: 24px;
+
+font-weight: 500;
+
+}
+.unsubscribe{
+    color: #FFF;
+
+font-size: 24px;
+
+font-weight: 500;
+
+}
+.reserved-unsubscribe{
+    display: flex;
+    justify-content: space-between;
+   
+}
+.empty{
+    padding-top: 65px;
+}
+
+
+
+
+
+
+
 
 
    
