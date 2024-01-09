@@ -258,29 +258,28 @@ line-height: 32px; /* 160% */
 }
 .sale-offer{
     margin: 120px 200px;
-    background-image:url('../images/icon/Rectangle\ 2.png');
-    background-repeat: no-repeat;
-    background-position: bottom;
-    background-image: url('../images/Rectangle\ 1.png');
-    background-repeat: no-repeat;
-   background-position: center right;
-    padding: 0px 0px 100px 0px;
+   
 
-    
-    
     
 }
 .picture{
     display: flex;
 }
 .sale-container{
-    
+    position: absolute;
+    top: 3800px;
+    right: 126px;
+    left: 126px;
 }
 
 
 .circle{
  
-padding: 150px 0px 1000px 700px;
+/* padding: 150px 0px 500px 700px; */
+position: absolute;
+top: 4350px ;
+right:200px;
+left: 900px;
 }
 .rectangle{
     width: 429px
@@ -292,6 +291,24 @@ border-radius: 16px, 16px, 0px, 0px
 }
 .gap{
     gap 150px
+}
+.rec-one{
+    position: absolute;
+top: 4200px ;
+right: px;
+left: 1100px;
+}
+.red-line{
+    position: absolute;
+    top: 4630px;
+}
+.gift{
+   position: absolute;
+   top: 4400px;
+   width: 600.09px;
+height: 400.424px;
+flex-shrink: 0;
+
 }
 
 
